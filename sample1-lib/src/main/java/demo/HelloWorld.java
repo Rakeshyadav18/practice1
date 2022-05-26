@@ -13,8 +13,8 @@ public class HelloWorld {
 	System.out.println("rajesh yadav");
 	System.out.println("santhoshn");	
 	System.out.println("sssssssssssssssse");
-	System.out.println("congratulations sumith");
-	System.out.println("congratulations sumith1");
+	System.out.println("pranita ");
+
 	}
 
 }
