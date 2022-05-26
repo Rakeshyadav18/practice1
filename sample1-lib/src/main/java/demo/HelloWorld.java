@@ -6,7 +6,7 @@ public class HelloWorld {
 	System.out.println("its rakesh guys");
 	System.out.println("its rajesh guys");
 
-	System.err.println("its me sumit");
+	System.out.println("its me sumit");
 
 	System.out.println("It's shashi");
 	System.out.println("shubha sanje");
